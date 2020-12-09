@@ -187,15 +187,19 @@ button:hover
   font-weight: bolder;
   width: 20px;
 }
-.github:hover{
-   font-size: 22px;
-}
 .github > a {
   margin: 8px;
   font-size: 5px;
   text-decoration: none ;
   color: var(--primary-color);
   border-bottom: 1px solid cadetblue;
+}
+
+.repo{
+  transition: all 1s;
+}
+.repo:hover {
+  font-size: 25px;
 }
 @keyframes rotate {
   0% {
