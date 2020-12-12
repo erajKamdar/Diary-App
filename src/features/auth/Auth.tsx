@@ -104,7 +104,7 @@ const Auth: FC = () => {
               <div className="github">
                 <span className='repo'>Visit My Repo </span>
                 <em className='arrow'>&rarr;</em>
-                <a href="https://github.com/erajKamdar"><GitHub className='hoverGithub'/></a>
+                <a href="https://github.com/erajKamdar/Diary-App"><GitHub className='hoverGithub'/></a>
               </div>
             </IconButton>
           </Typography>
